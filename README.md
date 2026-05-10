@@ -65,9 +65,7 @@ heart-disease-risk-prediction/
 
 ![Prediction Interface](screenshots/interface.png)
 
-### Risk Prediction Output
 
-![Risk Prediction](screenshots/risk_prediction.png)
 
 ---
 
